@@ -4,8 +4,8 @@
       "widgetId": "surveillance-header",
       "name": "Surveillance-header Widget",
       "position": {
-        "x": 20,
-        "y": 8
+        "x": 10,
+        "y": 16
       },
       "size": {
         "width": 780,
@@ -25,7 +25,8 @@
         "hideBorder": true,
         "hideDecorations": false,
         "showTitle": false,
-        "roleTag": "Pilgrim"
+        "roleTag": "Pilgrim",
+        "animationEasing": "linear"
       },
       "locked": false,
       "visible": true,
