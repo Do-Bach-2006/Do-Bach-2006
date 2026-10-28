@@ -6,6 +6,6 @@
 
 
 <p align="center">
-  <img src="./assets/Clash Royale Smile GIF by Clash.gif" width="48%" />
-  <img src="./assets/You Got It Electro GIF by Clash Royale.gif" width="48%" />
+  <img src="./assets/Clash Royale Smile GIF by Clash_everforest.gif" width="48%" />
+  <img src="./assets/You Got It Electro GIF by Clash Royale_everforest.gif" width="48%" />
 </p>
