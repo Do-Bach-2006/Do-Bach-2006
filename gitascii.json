@@ -1,0 +1,147 @@
+{
+  "widgets": [
+    {
+      "widgetId": "surveillance-header",
+      "name": "Surveillance-header Widget",
+      "position": {
+        "x": 20,
+        "y": 8
+      },
+      "size": {
+        "width": 780,
+        "height": 417
+      },
+      "config": {
+        "accentColor": "#00ff88",
+        "customTitle": "Surveillance Header",
+        "quoteText": "\"I want AI to do my laundry and dishes so that I can do art and writing, not the way around\"",
+        "modeTag": "CYBER SURV",
+        "coords": "",
+        "customBio": "Hacking, coding and writing. This is what I lived for!\n",
+        "secondaryColor": "#55ffff",
+        "ledColor": "#00ff88",
+        "animationType": "scan-lines",
+        "animationPreviewKey": 5,
+        "hideBorder": true,
+        "hideDecorations": false,
+        "showTitle": false,
+        "roleTag": "Pilgrim"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 1,
+      "instanceId": "widget_1793027682194_0"
+    },
+    {
+      "widgetId": "surveillance-telemetry",
+      "name": "Surveillance-telemetry Widget",
+      "position": {
+        "x": 5,
+        "y": 425
+      },
+      "size": {
+        "width": 780,
+        "height": 420
+      },
+      "config": {
+        "accentColor": "#00ff88",
+        "customTitle": "Terminal Telemetry",
+        "secondaryColor": "#55ffff",
+        "ledColor": "#00ff88"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 2,
+      "instanceId": "widget_1793027682194_1"
+    },
+    {
+      "instanceId": "widget_1793102415385",
+      "widgetId": "social-media",
+      "name": "Social-media Widget",
+      "position": {
+        "x": 0,
+        "y": 1041
+      },
+      "size": {
+        "width": 790,
+        "height": 187
+      },
+      "config": {
+        "selectedSocials": [
+          "github",
+          "linkedin",
+          "telegram",
+          "hashnode"
+        ],
+        "socialUrls": {
+          "github": "https://github.com/Do-Bach-2006",
+          "website": "https://www.facebook.com/obach.290891/",
+          "linkedin": "www.linkedin.com/in/bách-đỗ-60054b292",
+          "telegram": "https://t.me/GnomeRight",
+          "hashnode": "https://hashnode.com/@gnomeright"
+        },
+        "backgroundColor": "transparent",
+        "borderColor": "transparent",
+        "accentColor": "#c5ff4a"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 5
+    },
+    {
+      "instanceId": "widget_1793149041138",
+      "widgetId": "tech-stack",
+      "name": "Tech-stack Widget",
+      "position": {
+        "x": 0,
+        "y": 855
+      },
+      "size": {
+        "width": 800,
+        "height": 176
+      },
+      "config": {
+        "selectedTechs": [
+          "js",
+          "html",
+          "css",
+          "py",
+          "cpp",
+          "cs",
+          "c",
+          "bash",
+          "lua",
+          "sass",
+          "mysql",
+          "docker",
+          "git",
+          "notion",
+          "vscode",
+          "linux",
+          "nodejs"
+        ],
+        "backgroundColor": "transparent",
+        "borderColor": "transparent",
+        "theme": "dark",
+        "animationType": "none",
+        "animationPreviewKey": 3,
+        "accentColor": "#c5ff4a"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#050308",
+    "textColor": "#e5e5e5",
+    "accentColor": "#55ffff",
+    "borderColor": "#1a1424",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "rugbedbugg"
+  },
+  "templateId": "rugbedbugg"
+}
